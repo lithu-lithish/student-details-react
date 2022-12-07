@@ -1,0 +1,15 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+    background-color: pink;
+    z-index: 100;
+    height: 100%;
+    width: 100%;
+  }
+.hover-red:hover {
+  background-color: red!important;
+  color: white!important;
+  border-color: white!important;
+}
+ 
+  

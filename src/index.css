@@ -1,0 +1,21 @@
+/* html,body {
+    overflow: hidden;
+  
+  } */
+
+/* *,html,body {
+  box-sizing: border-box;
+} */
+@font-face {
+    font-family: "MonumentExtended";
+    src: local("MonumentExtended"),
+     url("./font/MonumentExtended-Regular.otf") format("opentype"); /*ttf = truetype */
+    font-weight: bold;
+    }
+
+    @font-face {
+      font-family: "Gilroy";
+      src: local("Gilroy"),
+       url("./font/Gilroy-Medium.ttf") format("truetype"); /*ttf = truetype */
+      
+      }
